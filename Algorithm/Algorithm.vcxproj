@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="ExcelSheetColumnNumber.h" />
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MoveZeroes.h" />
