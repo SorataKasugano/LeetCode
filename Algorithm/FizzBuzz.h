@@ -34,7 +34,7 @@ Return:
 using namespace std;
 
 vector<string> fizzBuzz(int n) {
-	vector<string> vecOut(n);
+	vector<string> vecOut(n);// aim to use index
 	for (int i = 1;i <= n;i++)
 	{
 		if (i % 3 == 0)
