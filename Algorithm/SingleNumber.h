@@ -7,7 +7,6 @@ Note:
 Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?*/
 
 #include <vector>
-#include <string>
 using namespace std;
 
 int singleNumber(vector<int>& nums) {
