@@ -36,6 +36,9 @@
     <ClInclude Include="ExcelSheetColumnNumber.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MajorityElement.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

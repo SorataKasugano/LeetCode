@@ -148,6 +148,7 @@
   <ItemGroup>
     <ClInclude Include="ExcelSheetColumnNumber.h" />
     <ClInclude Include="FizzBuzz.h" />
+    <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="ReverseString.h" />
