@@ -152,6 +152,7 @@
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="ReverseString.h" />
+    <ClInclude Include="RomantoInteger.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SumofTwoIntegers.h" />
   </ItemGroup>
