@@ -151,6 +151,7 @@
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
+    <ClInclude Include="MaxPointsonaLine.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RomantoInteger.h" />

@@ -1,9 +1,9 @@
 #include <iostream>
-#include "FizzBuzz.h"
+#include "MaxPointsonaLine.h"
 int main()
 {
-	vector<string> vec=fizzBuzz(20);
-	for (auto iter : vec)
-		cout << iter << endl;
+	Point point;
+	vector<Point> points = { {0,0},{0,0} };
+	cout << maxPoints(points) << endl;
 	return 0;
 }
