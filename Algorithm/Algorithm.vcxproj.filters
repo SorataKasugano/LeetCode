@@ -54,6 +54,9 @@
     <ClInclude Include="DeleteNodeinaLinkedList.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="FirstUniqueCharacterinaString.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

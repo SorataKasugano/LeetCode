@@ -149,6 +149,7 @@
     <ClInclude Include="BestTimetoBuyandSellStock II.h" />
     <ClInclude Include="DeleteNodeinaLinkedList.h" />
     <ClInclude Include="ExcelSheetColumnNumber.h" />
+    <ClInclude Include="FirstUniqueCharacterinaString.h" />
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />

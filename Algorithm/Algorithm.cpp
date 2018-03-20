@@ -1,9 +1,9 @@
 #include <iostream>
-#include "MaxPointsonaLine.h"
+#include "FirstUniqueCharacterinaString.h"
+
 int main()
 {
-	Point point;
-	vector<Point> points = { {0,0},{0,0} };
-	cout << maxPoints(points) << endl;
+	string s("loveleetcode");
+	cout << firstUniqChar(s) << endl;
 	return 0;
 }
