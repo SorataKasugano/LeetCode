@@ -147,6 +147,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="BestTimetoBuyandSellStock II.h" />
+    <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="DeleteNodeinaLinkedList.h" />
     <ClInclude Include="ExcelSheetColumnNumber.h" />
     <ClInclude Include="FirstUniqueCharacterinaString.h" />
