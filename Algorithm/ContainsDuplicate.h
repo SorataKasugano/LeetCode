@@ -15,11 +15,11 @@ bool containsDuplicate(vector<int>& nums) {
 	return nums.size() > unordered_set<int>(nums.begin(), nums.end()).size();
 
 	// 2.hash
-	unordered_map<int, int> hash;
-	for (auto iter : nums)
-	{
-		if (++hash[iter]>1)
-			return true;
-	}
-	return false;
+	//unordered_map<int, int> hash;
+	//for (auto iter : nums)
+	//{
+	//	if (++hash[iter]>1)
+	//		return true;
+	//}
+	//return false;
 }
