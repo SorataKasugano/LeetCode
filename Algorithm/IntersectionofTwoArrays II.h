@@ -20,6 +20,7 @@ cannot load all elements into the memory at once? */
 
 #include <vector>
 #include <unordered_map>
+#include <algorithm>
 using namespace std;
 
 vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
@@ -29,24 +30,37 @@ vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 	for (auto iter1 : nums1) hash[iter1]++;
 	for (auto iter2 : nums2) if (0<hash[iter2]--) intersection.push_back(iter2);
 	return intersection;
-	// 2.iterative & considering followup A and B
+	// 2.iterative
 	//vector<int> intersection;
-	//vector<int> &less = nums1.size() < nums2.size() ? nums1 : nums2;
-	//vector<int> &more = nums1.size() < nums2.size() ? nums2 : nums1;
-	//for (auto iter1 = less.begin();iter1!= less.end();iter1++)
+	//for (auto iter1 = nums2.begin();iter1!= nums2.end();iter1++)
 	//{
-	//	for (auto iter2 = more.begin();iter2!= more.end();iter2++)
+	//	for (auto iter2 = nums1.begin();iter2!= nums1.end();iter2++)
 	//	{
 	//		if (*iter1 == *iter2)
 	//		{
 	//			intersection.push_back(*iter1);
-	//			less.erase(iter1);
+	//			nums2.erase(iter1);
 	//			iter1--;
-	//			more.erase(iter2);
+	//			nums1.erase(iter2);
 	//			iter2--;
 	//			break;
 	//		}
 	//	}
+	//}
+	//return intersection;
+	// 3.sort NOTE:isnot steady
+	//vector<int> intersection;
+	//sort(nums1.begin(), nums1.end());
+	//sort(nums2.begin(), nums2.end());
+	//for (int i = 0, j = 0;i < nums1.size(), j < nums2.size();)
+	//{
+	//	if (nums1[i] == nums2[j])
+	//	{
+	//		intersection.push_back(nums1[i]);
+	//		i++;j++;
+	//	}
+	//	else if (nums1[i] > nums2[j]) j++;
+	//	else i++;
 	//}
 	//return intersection;
 }
