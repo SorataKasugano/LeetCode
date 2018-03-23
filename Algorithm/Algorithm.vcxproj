@@ -155,6 +155,7 @@
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MaxPointsonaLine.h" />
+    <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />
