@@ -69,6 +69,9 @@
     <ClInclude Include="IntersectionofTwoArrays II.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="ConvertSortedArraytoBinarySearch Tree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
