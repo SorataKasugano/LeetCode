@@ -11,9 +11,6 @@ typedef unsigned int uint32_t;
 
 int hammingWeight(uint32_t n) {
 	int ret = n & 1;
-	while (n = n >> 1)
-	{
-		if (n & 1) ret++;
-	}
+	while (n = n >> 1) if (n & 1) ret++;
 	return ret;
 }
