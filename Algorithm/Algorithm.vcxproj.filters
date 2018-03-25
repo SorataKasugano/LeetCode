@@ -75,6 +75,9 @@
     <ClInclude Include="BestTimetoBuyandSellStock.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="HappyNumber.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

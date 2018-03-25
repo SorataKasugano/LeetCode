@@ -154,6 +154,7 @@
     <ClInclude Include="ExcelSheetColumnNumber.h" />
     <ClInclude Include="FirstUniqueCharacterinaString.h" />
     <ClInclude Include="FizzBuzz.h" />
+    <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="IntersectionofTwoArrays II.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
