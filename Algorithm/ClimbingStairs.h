@@ -35,7 +35,19 @@ int climbStairs(int n) {
 	int ret = dp[n]; 
 	delete[] dp; dp = nullptr;
 	return ret;
-	// 2.oops! TLE
+
+	// 2.Fibonacci
+	//if (n < 3) return n;
+	//int first = 1, second = 2, ret = 0;
+	//for (int index = 3;index <= n;index++)
+	//{
+	//	ret = first + second;
+	//	first = second;
+	//	second = ret;
+	//}
+	//return ret;
+
+	// 3.oops! TLE
 	//if(n<4) return n;
 	//return climbStairs(n-1)+climbStairs(n-2);
 }
