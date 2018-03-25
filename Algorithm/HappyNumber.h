@@ -12,7 +12,6 @@ Example: 19 is a happy number
 62 + 82 = 100
 12 + 02 + 02 = 1 */
 
-#include <algorithm>
 #include <unordered_map>
 using namespace std;
 
