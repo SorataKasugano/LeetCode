@@ -160,6 +160,7 @@
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MaxPointsonaLine.h" />
+    <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="ReverseLinkedList.h" />
