@@ -84,6 +84,9 @@
     <ClInclude Include="MergeTwoSortedLists.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="PowerofThree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

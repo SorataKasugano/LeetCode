@@ -163,6 +163,7 @@
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MoveZeroes.h" />
+    <ClInclude Include="PowerofThree.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RomantoInteger.h" />
