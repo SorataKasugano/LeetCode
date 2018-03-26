@@ -170,6 +170,7 @@
     <ClInclude Include="RomantoInteger.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SumofTwoIntegers.h" />
+    <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="ValidAnagram.h" />
   </ItemGroup>
   <ItemGroup>
