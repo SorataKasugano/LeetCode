@@ -159,6 +159,7 @@
     <ClInclude Include="IntersectionofTwoArrays II.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
+    <ClInclude Include="MaximumSubarray.h" />
     <ClInclude Include="MaxPointsonaLine.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
     <ClInclude Include="MissingNumber.h" />

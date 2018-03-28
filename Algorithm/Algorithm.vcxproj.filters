@@ -93,6 +93,9 @@
     <ClInclude Include="SymmetricTree.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MaximumSubarray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
