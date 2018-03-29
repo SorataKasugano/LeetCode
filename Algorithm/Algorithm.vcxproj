@@ -153,6 +153,7 @@
     <ClInclude Include="ConvertSortedArraytoBinarySearch Tree.h" />
     <ClInclude Include="DeleteNodeinaLinkedList.h" />
     <ClInclude Include="ExcelSheetColumnNumber.h" />
+    <ClInclude Include="FactorialTrailingZeroes.h" />
     <ClInclude Include="FirstUniqueCharacterinaString.h" />
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="HappyNumber.h" />
