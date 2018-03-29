@@ -105,6 +105,9 @@
     <ClInclude Include="PlusOne.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="TwoSum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

@@ -175,6 +175,7 @@
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="SumofTwoIntegers.h" />
     <ClInclude Include="SymmetricTree.h" />
+    <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ValidAnagram.h" />
   </ItemGroup>
   <ItemGroup>
