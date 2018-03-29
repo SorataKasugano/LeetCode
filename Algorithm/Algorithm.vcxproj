@@ -167,6 +167,7 @@
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="Numberof1Bits.h" />
     <ClInclude Include="Pascal%27sTriangle.h" />
+    <ClInclude Include="PlusOne.h" />
     <ClInclude Include="PowerofThree.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />

@@ -1,8 +1,13 @@
 #include <iostream>
-#include "Numberof1Bits.h"
+#include "PlusOne.h"
 
 int main()
 {
-	std::cout << hammingWeight(2) << std::endl;
+	vector<int> vec{ 0 };
+	vec = plusOne(vec);
+	for (auto i : vec)
+	{
+		cout << i << endl;
+	}
 	return 0;
 }
