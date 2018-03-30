@@ -151,6 +151,7 @@
     <ClInclude Include="ClimbingStairs.h" />
     <ClInclude Include="ContainsDuplicate.h" />
     <ClInclude Include="ConvertSortedArraytoBinarySearch Tree.h" />
+    <ClInclude Include="CountandSay.h" />
     <ClInclude Include="DeleteNodeinaLinkedList.h" />
     <ClInclude Include="ExcelSheetColumnNumber.h" />
     <ClInclude Include="FactorialTrailingZeroes.h" />

@@ -1,13 +1,10 @@
 #include <iostream>
-#include "PlusOne.h"
+#include "CountandSay.h"
 
 int main()
 {
-	vector<int> vec{ 0 };
-	vec = plusOne(vec);
-	for (auto i : vec)
-	{
-		cout << i << endl;
-	}
+	string str = "abc";
+	str.append("app");
+	cout << str << endl;
 	return 0;
 }
