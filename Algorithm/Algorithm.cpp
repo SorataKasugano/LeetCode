@@ -3,8 +3,10 @@
 
 int main()
 {
-	string str = "abc";
-	str.append("app");
-	cout << str << endl;
+	int i=1;
+	while (i--)
+	{
+		cout << "i" << endl;
+	}
 	return 0;
 }

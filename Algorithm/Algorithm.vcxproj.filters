@@ -114,6 +114,9 @@
     <ClInclude Include="CountandSay.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="RemoveDuplicatesfromSorted Array.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

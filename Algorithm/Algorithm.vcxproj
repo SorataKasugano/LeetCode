@@ -171,6 +171,7 @@
     <ClInclude Include="Pascal%27sTriangle.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="PowerofThree.h" />
+    <ClInclude Include="RemoveDuplicatesfromSorted Array.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RomantoInteger.h" />
