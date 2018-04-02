@@ -160,6 +160,7 @@
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="IntersectionofTwoArrays II.h" />
+    <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="MajorityElement.h" />
     <ClInclude Include="MaximumDepthofBinaryTree.h" />
     <ClInclude Include="MaximumSubarray.h" />
