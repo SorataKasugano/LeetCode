@@ -123,6 +123,9 @@
     <ClInclude Include="ValidParentheses.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="PalindromeLinkedList.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">

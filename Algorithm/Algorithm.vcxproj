@@ -169,6 +169,7 @@
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="Numberof1Bits.h" />
+    <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="Pascal%27sTriangle.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="PowerofThree.h" />
