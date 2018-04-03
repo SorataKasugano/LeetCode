@@ -181,6 +181,7 @@
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ValidAnagram.h" />
+    <ClInclude Include="ValidParentheses.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp" />
