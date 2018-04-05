@@ -168,6 +168,7 @@
     <ClInclude Include="MaxPointsonaLine.h" />
     <ClInclude Include="MergeSortedArray.h" />
     <ClInclude Include="MergeTwoSortedLists.h" />
+    <ClInclude Include="MinStack.h" />
     <ClInclude Include="MissingNumber.h" />
     <ClInclude Include="MoveZeroes.h" />
     <ClInclude Include="Numberof1Bits.h" />
