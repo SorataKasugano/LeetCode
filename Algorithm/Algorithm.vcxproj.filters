@@ -126,6 +126,9 @@
     <ClInclude Include="PalindromeLinkedList.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="MergeSortedArray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
