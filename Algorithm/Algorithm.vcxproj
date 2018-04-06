@@ -178,6 +178,7 @@
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="PowerofThree.h" />
     <ClInclude Include="RemoveDuplicatesfromSorted Array.h" />
+    <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RomantoInteger.h" />

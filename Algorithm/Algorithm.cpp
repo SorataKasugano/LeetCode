@@ -1,12 +1,9 @@
 #include <iostream>
-#include "CountandSay.h"
+#include "ReverseBits.h"
 
 int main()
 {
-	int i=1;
-	while (i--)
-	{
-		cout << "i" << endl;
-	}
+	uint32_t in = 43261596;
+	std::cout << reverseBits(in);
 	return 0;
 }
