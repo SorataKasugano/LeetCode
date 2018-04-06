@@ -159,6 +159,7 @@
     <ClInclude Include="FizzBuzz.h" />
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="HouseRobber.h" />
+    <ClInclude Include="ImplementstrStr().h" />
     <ClInclude Include="IntersectionofTwoArrays II.h" />
     <ClInclude Include="IntersectionofTwoLinkedLists.h" />
     <ClInclude Include="LinkedListCycle.h" />
