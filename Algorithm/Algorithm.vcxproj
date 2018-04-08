@@ -184,6 +184,7 @@
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RomantoInteger.h" />
     <ClInclude Include="SingleNumber.h" />
+    <ClInclude Include="Sqrt(x).h" />
     <ClInclude Include="SumofTwoIntegers.h" />
     <ClInclude Include="SymmetricTree.h" />
     <ClInclude Include="TwoSum.h" />
