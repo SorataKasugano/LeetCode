@@ -28,7 +28,7 @@ int mySqrt(int x) {
 	if (x<2) return x;
 	for (long long ret = x / 2, x1;;)
 	{
-		ret = ret / 2 + x / (2 * ret);
+		ret = (ret + x / ret) / 2;
 		if (ret*ret <= x) return ret;
 	}
 }
