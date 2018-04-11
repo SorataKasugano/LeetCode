@@ -150,6 +150,9 @@
     <ClInclude Include="ValidPalindrome.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CountPrimes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
