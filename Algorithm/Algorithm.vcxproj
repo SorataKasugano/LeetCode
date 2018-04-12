@@ -184,6 +184,7 @@
     <ClInclude Include="ReverseLinkedList.h" />
     <ClInclude Include="ReverseString.h" />
     <ClInclude Include="RomantoInteger.h" />
+    <ClInclude Include="RotateArray.h" />
     <ClInclude Include="SingleNumber.h" />
     <ClInclude Include="Sqrt(x).h" />
     <ClInclude Include="SumofTwoIntegers.h" />
