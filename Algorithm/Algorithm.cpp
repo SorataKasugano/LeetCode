@@ -1,9 +1,9 @@
 #include <iostream>
-#include "ValidPalindrome.h"
+#include "ReverseInteger.h"
 
 int main()
 {
-	std::cout << isPalindrome("A man, a plan, a canal: Panama");
-
+	std::cout << reverse(int(0x7fffffff/*80000000*/));
+	//7463847412 2147483647
 	return 0;
 }
