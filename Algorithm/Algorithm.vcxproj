@@ -179,6 +179,7 @@
     <ClInclude Include="Pascal%27sTriangle.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="PowerofThree.h" />
+    <ClInclude Include="ProductofArrayExceptSelf.h" />
     <ClInclude Include="RemoveDuplicatesfromSorted Array.h" />
     <ClInclude Include="ReverseBits.h" />
     <ClInclude Include="ReverseInteger.h" />
