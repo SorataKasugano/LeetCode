@@ -1,9 +1,16 @@
 #include <iostream>
-#include "ReverseInteger.h"
+#include "BinaryTreeInorderTraversal.h"
 
 int main()
 {
-	std::cout << reverse(int(0x7fffffff/*80000000*/));
-	//7463847412 2147483647
+	TreeNode* root = new TreeNode(1);
+	TreeNode* right = new TreeNode(2);
+	TreeNode* left = new TreeNode(3);
+	root->right = right;
+	right->left = left;
+	vector<int> test = inorderTraversal(root);
+	delete left;
+	delete right;
+	delete root;
 	return 0;
 }
