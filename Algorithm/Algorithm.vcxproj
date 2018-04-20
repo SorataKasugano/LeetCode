@@ -192,6 +192,7 @@
     <ClInclude Include="Sqrt(x).h" />
     <ClInclude Include="SumofTwoIntegers.h" />
     <ClInclude Include="SymmetricTree.h" />
+    <ClInclude Include="TopKFrequentElements.h" />
     <ClInclude Include="TwoSum.h" />
     <ClInclude Include="ValidAnagram.h" />
     <ClInclude Include="ValidPalindrome.h" />
