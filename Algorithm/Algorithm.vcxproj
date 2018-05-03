@@ -159,6 +159,7 @@
     <ClInclude Include="FactorialTrailingZeroes.h" />
     <ClInclude Include="FirstUniqueCharacterinaString.h" />
     <ClInclude Include="FizzBuzz.h" />
+    <ClInclude Include="GenerateParentheses.h" />
     <ClInclude Include="HappyNumber.h" />
     <ClInclude Include="HouseRobber.h" />
     <ClInclude Include="ImplementstrStr().h" />

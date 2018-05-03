@@ -1,8 +1,8 @@
 #include <iostream>
-#include "TopKFrequentElements.h"
+#include "GenerateParentheses.h"
 
 int main()
 {
-	vector<int> test = topKFrequent(vector<int>{ 1 }, 1);
+	vector<string> strs = generateParenthesis(3);
 	return 0;
 }
