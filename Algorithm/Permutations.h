@@ -20,7 +20,7 @@ Output:
 using namespace std;
 
 // auxiliary recursive backtrack function
-vector<vector<int>> aux_permute(vector<int> &nums, vector<bool> &lock, int lock_count, int anchor)
+vector<vector<int>> aux_permute(vector<int> &nums, vector<bool> &lock, int anchor)
 {
 	if (anchor == nums.size() - 1) return vector<vector<int>>{ {nums[anchor]}};
 	vector<vector<int>> rets;
@@ -28,7 +28,7 @@ vector<vector<int>> aux_permute(vector<int> &nums, vector<bool> &lock, int lock_
 	{
 		if (lock[i]) continue;
 		lock[i] = true;
-		for (auto seq : aux_permute(nums, lock, lock_count + 1, anchor + 1))
+		for (auto seq : aux_permute(nums, lock, anchor + 1))
 		{
 			seq.insert(seq.begin() + offset, nums[anchor]);
 			rets.push_back(seq);
@@ -41,5 +41,5 @@ vector<vector<int>> aux_permute(vector<int> &nums, vector<bool> &lock, int lock_
 
 vector<vector<int>> permute(vector<int>& nums) {
 	vector<bool> lock(nums.size());
-	return aux_permute(nums, lock, 0, 0);
+	return aux_permute(nums, lock, 0);
 }
