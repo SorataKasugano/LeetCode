@@ -47,7 +47,7 @@ using namespace std;
 
 // 2.iterative dp
 /* state transition equation:
-*  dp[i][j]=dp[i-1][j/(i+1)].insert(dp[i-1][j/(i+1)].begin()+j%(i+1),nums[count-i-1]); */
+*  dp[i][j] = dp[i - 1][j / (i + 1)].insert(dp[i - 1][j / (i + 1)].begin() + j % (i + 1), nums[count - i - 1]); */
 vector<vector<int>> permute(vector<int>& nums) {
 	int count = nums.size();
 	if (!count) return vector<vector<int>>();
@@ -65,5 +65,5 @@ vector<vector<int>> permute(vector<int>& nums) {
 		}
 		dp_prev = dp_next;
 	}
-	return dp_next;
+	return dp_prev;
 }
