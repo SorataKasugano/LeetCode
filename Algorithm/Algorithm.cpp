@@ -1,8 +1,8 @@
 #include <iostream>
-#include "GenerateParentheses.h"
+#include "Permutations.h"
 
 int main()
 {
-	vector<string> strs = generateParenthesis(3);
+	vector<vector<int>> ret = permute(vector<int>{1, 2, 3});
 	return 0;
 }

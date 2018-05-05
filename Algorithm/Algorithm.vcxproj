@@ -179,6 +179,7 @@
     <ClInclude Include="Numberof1Bits.h" />
     <ClInclude Include="PalindromeLinkedList.h" />
     <ClInclude Include="Pascal%27sTriangle.h" />
+    <ClInclude Include="Permutations.h" />
     <ClInclude Include="PlusOne.h" />
     <ClInclude Include="PowerofThree.h" />
     <ClInclude Include="ProductofArrayExceptSelf.h" />
