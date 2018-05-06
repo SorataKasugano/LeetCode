@@ -146,6 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="4SumII.h" />
     <ClInclude Include="BestTimetoBuyandSellStock II.h" />
     <ClInclude Include="BestTimetoBuyandSellStock.h" />
     <ClInclude Include="BinaryTreeInorderTraversal.h" />
