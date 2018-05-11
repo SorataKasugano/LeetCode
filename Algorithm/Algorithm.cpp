@@ -1,8 +1,8 @@
 #include <iostream>
-#include "Permutations.h"
+#include "KthSmallestElementinaSortedMatrix.h"
 
 int main()
 {
-	vector<vector<int>> ret = permute(vector<int>{1, 2, 3});
+	cout << kthSmallest(vector<vector<int>>{ {1, 5, 9}, { 10,11,13 }, { 12,13,15 }}, 8);
 	return 0;
 }

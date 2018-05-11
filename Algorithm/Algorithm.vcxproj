@@ -166,6 +166,7 @@
     <ClInclude Include="ImplementstrStr().h" />
     <ClInclude Include="IntersectionofTwoArrays II.h" />
     <ClInclude Include="IntersectionofTwoLinkedLists.h" />
+    <ClInclude Include="KthSmallestElementinaSortedMatrix.h" />
     <ClInclude Include="LinkedListCycle.h" />
     <ClInclude Include="LongestCommonPrefix.h" />
     <ClInclude Include="MajorityElement.h" />

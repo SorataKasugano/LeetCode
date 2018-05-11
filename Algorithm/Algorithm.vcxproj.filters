@@ -180,6 +180,9 @@
     <ClInclude Include="ShuffleanArray.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="KthSmallestElementinaSortedMatrix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Algorithm.cpp">
